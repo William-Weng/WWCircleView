@@ -1,0 +1,11 @@
+framework module WWCircleView {
+  umbrella header "WWCircleView.h"
+
+  export *
+  module * { export * }
+}
+
+module WWCircleView.Swift {
+    header "WWCircleView-Swift.h"
+    requires objc
+}
