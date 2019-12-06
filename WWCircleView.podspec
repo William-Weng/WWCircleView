@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         				    = "WWCircleView"
-  s.version      				    = "0.1.0"
+  s.version      				    = "0.2.0"
   s.summary      				    = "WWCircleView is a Round progress bar. (圓形的進度條)"
   s.homepage     				    = "https://github.com/William-Weng/"
   s.license      				    = { :type => "MIT", :file => "LICENSE" }
