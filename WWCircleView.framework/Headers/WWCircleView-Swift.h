@@ -234,6 +234,24 @@ SWIFT_CLASS("_TtC12WWCircleView12WWCircleView")
 
 
 
+
+SWIFT_CLASS("_TtC12WWCircleView10WWLineView")
+@interface WWLineView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)drawRect:(CGRect)rect;
+/// <a href="https://stackoverflow.com/questions/46723683/ib-designables-failed-to-render-and-update-auto-layout-status">IB Designables: Failed to render and update auto layout status</a>
+- (void)prepareForInterfaceBuilder;
+@end
+
+
+
+
+
+
+
+
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif

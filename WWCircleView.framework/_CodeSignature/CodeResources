@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/WWAnimationLabel.swift</key>
 		<data>
-		naQPZlHu05RRdIhEmBNmwfqMijQ=
+		cPKemU4+leFaxVsw1thWLDPxCcU=
 		</data>
 		<key>Headers/WWCircleView-Swift.h</key>
 		<data>
-		k7EXXoEvEe2kDzmA1b0nXYq7Bac=
+		hRzB7Po/yjk12A2e62/KvBgLGCI=
 		</data>
 		<key>Headers/WWCircleView.h</key>
 		<data>
@@ -20,25 +20,29 @@
 		<data>
 		4+F81OQLAV+TC8uNhAqORcvrf2Y=
 		</data>
+		<key>Headers/WWLineView.swift</key>
+		<data>
+		NJrQTtPzB6STk3tWQbVEZm5CyUc=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		j1DSZzYU1biBK+3/mQFgtjO2Isw=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/JMMCrTHw6Oj6ncRS9MiRTueYAI=
+		ra9KubxkmpWF5s0GJ/nu7z1lXq0=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qa1pEqVirG0KmrWynByyldBbuKw=
+		JHp+ZcnIDJEcqS335Sjf2NIxjFI=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		/JMMCrTHw6Oj6ncRS9MiRTueYAI=
+		ra9KubxkmpWF5s0GJ/nu7z1lXq0=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		qa1pEqVirG0KmrWynByyldBbuKw=
+		JHp+ZcnIDJEcqS335Sjf2NIxjFI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,11 +50,19 @@
 		</data>
 		<key>WWCircleView.nib/objects-13.0+.nib</key>
 		<data>
-		t8iJ7JK76JPo0utIncXAEsmKYa8=
+		45i6g7IOTqsTVqJcJooh1ph5GwA=
 		</data>
 		<key>WWCircleView.nib/runtime.nib</key>
 		<data>
-		7v4LD5N2YjjEyy6LLdnqWBX+0j8=
+		rEXtk2duoeAKFA1U0GyhU/s13+U=
+		</data>
+		<key>WWLineView.nib/objects-13.0+.nib</key>
+		<data>
+		nKsyJkrU5RVZi79a8B4jUbZ7K2A=
+		</data>
+		<key>WWLineView.nib/runtime.nib</key>
+		<data>
+		jP5zU1304B5olKvx88aEXALRdGA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ngm5QqhpJYSCqCyOaJmrBiUjaI7xMj2yrxP+iVF0UeM=
+			VV8vsWJV5/wCy2Pd1NYNN8F3TKyeqpKxVxytGYw1nuI=
 			</data>
 		</dict>
 		<key>Headers/WWCircleView-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtv0iyaIn+JYR0QdW+ZjYO+QmMquaQgCGXwYX+imFuw=
+			LTOeqK7iy9pdoinwyiOxKL5x8q577QtQVytAJkFk0Ts=
 			</data>
 		</dict>
 		<key>Headers/WWCircleView.h</key>
@@ -83,32 +95,39 @@
 			BFF+ACex6U2llntLH/oLw3m50c0MuBSo/bouCfrpDDQ=
 			</data>
 		</dict>
+		<key>Headers/WWLineView.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			36QgUFfI5NwUyxDLgGizPvnjwpX2PmOkga7Oq9J542w=
+			</data>
+		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zz3VmpclPMNzYddzxcLcmgUmJPfzcTb6UFpTflRQOW4=
+			Qg0DloZUtuNkOe4k4QupZCMgDcMY3miWmnYYqLw3lVM=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdY6m2qypYD9W7UReBnrqUAYUhEJ+2Sz23qyqbiVP7M=
+			rGuDXS3uB+OEhEIxhl5LTMmIU7CGI8wBK24CnEZEnzo=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zz3VmpclPMNzYddzxcLcmgUmJPfzcTb6UFpTflRQOW4=
+			Qg0DloZUtuNkOe4k4QupZCMgDcMY3miWmnYYqLw3lVM=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdY6m2qypYD9W7UReBnrqUAYUhEJ+2Sz23qyqbiVP7M=
+			rGuDXS3uB+OEhEIxhl5LTMmIU7CGI8wBK24CnEZEnzo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -122,14 +141,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fXx2Axr5IFHJgSahxh8fbw6GdV9oqvJngkz20RacMhI=
+			5duSaDYwn5lCsjuVj1Yw8mJmd5BYLEMSfQf6n9rz79M=
 			</data>
 		</dict>
 		<key>WWCircleView.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V2nzDxCFjOBOqLEmhmmONOCiyP2gZLJ5Yqen+UdPJLs=
+			cwhDg/TZnmIWTaSIpSTndwobPuMNkB+8asi9WFUUYTg=
+			</data>
+		</dict>
+		<key>WWLineView.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2khHvRSZguVZD8YYGnNaQRWNIk7BzOsUAir80bQSNrA=
+			</data>
+		</dict>
+		<key>WWLineView.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h+rgR/O6K7eJmQ2+U/udKIl+rSvScQmXSVRbBqXF17o=
 			</data>
 		</dict>
 	</dict>
