@@ -202,6 +202,21 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class NSCoder;
 
+SWIFT_CLASS("_TtC12WWCircleView16WWAnimationLabel")
+@interface WWAnimationLabel : UILabel
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+
+
+
+
+
 SWIFT_CLASS("_TtC12WWCircleView12WWCircleView")
 @interface WWCircleView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;

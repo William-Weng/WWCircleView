@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/WWAnimationLabel.swift</key>
+		<data>
+		naQPZlHu05RRdIhEmBNmwfqMijQ=
+		</data>
 		<key>Headers/WWCircleView-Swift.h</key>
 		<data>
-		pOt3cd4SVAPAShrE2zLa7TKVb6g=
+		k7EXXoEvEe2kDzmA1b0nXYq7Bac=
 		</data>
 		<key>Headers/WWCircleView.h</key>
 		<data>
@@ -14,7 +18,7 @@
 		</data>
 		<key>Headers/WWCircleView.swift</key>
 		<data>
-		U5jRwhdhZarVZGd+qCoaOV5GDWE=
+		4+F81OQLAV+TC8uNhAqORcvrf2Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,19 +26,19 @@
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ZLqHh7swYYZZ/XLGKCcA2mBOHWQ=
+		/JMMCrTHw6Oj6ncRS9MiRTueYAI=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		H5ATiyUoSaC2t6M9Xf6IRxWOvwA=
+		qa1pEqVirG0KmrWynByyldBbuKw=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ZLqHh7swYYZZ/XLGKCcA2mBOHWQ=
+		/JMMCrTHw6Oj6ncRS9MiRTueYAI=
 		</data>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		H5ATiyUoSaC2t6M9Xf6IRxWOvwA=
+		qa1pEqVirG0KmrWynByyldBbuKw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,20 +46,27 @@
 		</data>
 		<key>WWCircleView.nib/objects-13.0+.nib</key>
 		<data>
-		Z3UxsfY5zsD333Wd1vMffjnbBGU=
+		t8iJ7JK76JPo0utIncXAEsmKYa8=
 		</data>
 		<key>WWCircleView.nib/runtime.nib</key>
 		<data>
-		0inH60RVGLvOnzyU34RGEdHoqzM=
+		7v4LD5N2YjjEyy6LLdnqWBX+0j8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/WWAnimationLabel.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ngm5QqhpJYSCqCyOaJmrBiUjaI7xMj2yrxP+iVF0UeM=
+			</data>
+		</dict>
 		<key>Headers/WWCircleView-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fUP+WYHAdWMZVl3SVMa5bXG4sJhVVyO/4KVCZc9MIQw=
+			xtv0iyaIn+JYR0QdW+ZjYO+QmMquaQgCGXwYX+imFuw=
 			</data>
 		</dict>
 		<key>Headers/WWCircleView.h</key>
@@ -69,35 +80,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nog4mjx6s9T0ABCzjOULopDexePoKW57z2KKRtCXVM0=
+			BFF+ACex6U2llntLH/oLw3m50c0MuBSo/bouCfrpDDQ=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LZBhLLa+IKSqWwRrBrupJvquv1b2CjS4SliC7z0e/Lk=
+			Zz3VmpclPMNzYddzxcLcmgUmJPfzcTb6UFpTflRQOW4=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QM5gtkRT4NE4fBvTmRR44kW31J5c/9Al9WAj+Lj0eBI=
+			XdY6m2qypYD9W7UReBnrqUAYUhEJ+2Sz23qyqbiVP7M=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LZBhLLa+IKSqWwRrBrupJvquv1b2CjS4SliC7z0e/Lk=
+			Zz3VmpclPMNzYddzxcLcmgUmJPfzcTb6UFpTflRQOW4=
 			</data>
 		</dict>
 		<key>Modules/WWCircleView.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QM5gtkRT4NE4fBvTmRR44kW31J5c/9Al9WAj+Lj0eBI=
+			XdY6m2qypYD9W7UReBnrqUAYUhEJ+2Sz23qyqbiVP7M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -111,14 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XhDoDCtoFt0++aYkSg3kEY7JEIhsuETr9biluWvNVa8=
+			fXx2Axr5IFHJgSahxh8fbw6GdV9oqvJngkz20RacMhI=
 			</data>
 		</dict>
 		<key>WWCircleView.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B9RsmWRJK311HGJChz22sig+yVqkGDZumeF4Eev9OeU=
+			V2nzDxCFjOBOqLEmhmmONOCiyP2gZLJ5Yqen+UdPJLs=
 			</data>
 		</dict>
 	</dict>
