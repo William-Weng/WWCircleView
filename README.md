@@ -1,3 +1,5 @@
+# ⚠️ WWCircleView 已停止維護, 請改用 [WWProgressMaskView](https://github.com/William-Weng/WWProgressMaskView)
+
 # WWCircleView
 圓形 / 直線的進度條，有動畫的Label
 
